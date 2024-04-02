@@ -1,37 +1,56 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Anang Sahroni",
+    "label": "Geophysicist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "anangs972@gmail.com",
+    "phone": "",
+    "url": "https://anangsahroni.github.io/",
+    "summary": "PhD student in Paleomagnetism and Geomagnetism with previous experience as computational geophysics",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Theresiestr. 41",
+      "postalCode": "80333",
+      "city": "München",
+      "countryCode": "GER",
+      "region": "Bavaria"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "anangsahroni",
+        "url": "https://twitter.com/anangsahroni"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Ludwig-Maximilians-Universität München",
+      "position": "PhD Research Assistant (Wissenschaftliche Mitarbeiter)",
+      "url": "https://www.geophysik.uni-muenchen.de/en",
+      "startDate": "2024-02-01",
+      "endDate": "now",
+      "summary": "Studying and conducting research in Paleomagnetism to analyze and characterize the behavior of the Earth's geomagnetic field.",
       "highlights": [
-        "Relativity"
+        "Geophysics",
+        "Paleomagnetism",
+        "Geomagnetism",
+        "Rock Magnetism"
+      ]
+    },
+    {
+      "name": "Geoseismal Research Center",
+      "position": "Computational Software Engineer",
+      "url": "https://id.linkedin.com/company/geoseismal",
+      "startDate": "2020-02-01",
+      "endDate": "2024-01-01",
+      "summary": "Contributed as a developer to various projects, including real-time earthquake monitoring applications, passive seismic data analysis tools, software suites for geomagnetic data analysis, and 3D elastic seismic wave simulation modules. My roles ranged from backend to frontend tasks, utilizing Python and Javascript technologies such as Django, ReactJS, and Electron, and involving tasks like scraping and processing large datasets.",
+      "highlights": [
+        "Geophysics",
+        "Seismic",
+        "Geomagnetic",
+        "Computation",
+        "Python",
+        "Javascript"
       ]
     }
   ],

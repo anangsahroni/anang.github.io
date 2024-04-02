@@ -2,21 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computational Software Engineer - Geophysicist @ <a href='https://www.linkedin.com/company/geoseismal/'>Geoseismal Research Center</a>
+subtitle: PhD Student @ <a href='https://www.geophysik.uni-muenchen.de/en'>Ludwig-Maximilians-Universität München</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Magelang, Indonesia</p>
+    <p>Munich, Germany</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Full-time computational software engineer experienced in geophysical signal processing, geophysical computation, geophysical inverse problem, data collection (web scraping), and software development. I've been rocking it as a developer for over 3 years, diving into scientific software (think signal processing and cool modeling stuff) and also rocking the general software scene (yep, web development too). 🚀💻
-
-Skilled in Python and its libraries like SciPy, NumPy, Pandas, Matplotlib, Obspy, Django, Django REST Framework, Holoviz Panel, Bokeh, BeautifulSoup, and Pytest. Proficient with software development tools and automation using Git, GitHub, Gitlab, Gitlab CI, Github Actions, and Taiga. Familiar with GIS principles and software such as QGIS, ArcGIS, Cartopy, LeafletJS, and knowledgeable in web technologies like HTML, CSS, Javascript, and ReactJS.
+PhD student now studying and conducting research in Paleomagnetism to analyze and characterize the behavior of the Earth's geomagnetic field. Formerly, I served as a computational software engineer, gaining expertise in geophysical signal processing, geophysical computation, and geophysical inverse problems. My experience also encompasses data collection through web scraping and software development. Over the past 4 years, I've developed proficiency as a developer, particularly in scientific software as well as in general software realm, including web development. Proficient in Python, Javascript, HTML, and CSS.
