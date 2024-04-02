@@ -99,14 +99,45 @@
   "awards": [
     {
       "title": "Third Winning Team",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "date": "2018-04-01",
+      "awarder": "Geo Quiz - EAGE-HAGI First Asia Pacific Meeting on Near Surface Geoscience and Engineering ",
+      "summary": ""
     }
   ],
   "certificates": [],
   "publications": [],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Computational geophysics"
+    },
+    {
+        "name": "Seismic analysis"
+    },
+    {
+        "name": "Geomagnetic"
+    },
+    {
+        "name": "Inverse problem"
+    },
+    {
+        "name": "Software development"
+    },
+    {
+        "name": "Git"
+    },
+    {
+        "name": "Python"
+    },
+    {
+        "name": "Javascript"
+    },
+    {
+        "name": "HTML"
+    },
+    {
+        "name": "CSS"
+    } 
+  ],
   "languages": [
     {
       "language": "Bahasa Indonesia",
