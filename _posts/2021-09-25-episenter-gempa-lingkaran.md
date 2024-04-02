@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Menentukan episenter gempa dengan metode lingkaran
+title: Determining the earthquake epicenter using circles superposition method
 date: 2021-09-25 09:00:00+0700
 description: Menggunakan metode lingkaran untuk menentukan episenter gempa bumi, dilakukan dengan Python
 tags: seismology, python, geophysics
 categories: notebook
-giscus_comments: true
+featured: true
 related_posts: false
 ---
+> The post is currently still in Bahasa Indonesia and will be translated to English soon
 
 {::nomarkdown}
 {% assign jupyter_path = "assets/jupyter/2_Earthquake_Source_Simple_1.ipynb" | relative_url %}

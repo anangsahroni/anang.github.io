@@ -9,6 +9,8 @@ featured: true
 related_publications: hinze2013
 
 ---
+> The post is currently still in Bahasa Indonesia and will be translated to English soon
+
 > Konten ini juga sebagai bahan belajar saya, kalau ada kesalahan bisa dikoreksi, _thanks :)_
 
 
