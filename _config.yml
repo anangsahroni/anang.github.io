@@ -8,7 +8,7 @@ middle_name:
 last_name: Sahroni
 email: anangs972@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+ A simple site for me and my articles.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -45,7 +45,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -75,7 +75,7 @@ github_username: anangsahroni # your GitHub user name
 gitlab_username: anangsahroni # your GitLab user name
 twitter_username: anangsahroni # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: anang.sahroni # your LinkedIn user name
+linkedin_username: anang-sahroni # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
@@ -125,7 +125,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: blog # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: 'forever under construction, most of the posts are still in bahasa Indonesia and will be translated soon'
+blog_description: '🚧 Under construction, most of the posts are still in bahasa Indonesia and will be translated soon'
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -141,9 +141,9 @@ related_blog_posts:
 # the information below.
 giscus:
   repo: alshedivat/al-folio      # <your-github-user-name>/<your-github-repo-name>
-  repo_id: MDEwOlJlcG9zaXRvcnk2MDAyNDM2NQ==
-  category: Comments             # name of the category under which discussions will be created
-  category_id: DIC_kwDOA5PmLc4CTBt6
+  repo_id: R_kgDOKEsCSw
+  category: Announcements             # name of the category under which discussions will be created
+  category_id: DIC_kwDOKEsCS84CecWE
   mapping: title                 # identify discussions by post title
   strict: 1                      # use strict identification mode
   reactions_enabled: 1           # enable (1) or disable (0) emoji reactions
@@ -153,7 +153,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: anangsahroni # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
@@ -272,8 +272,8 @@ display_categories: ['notebook'] # these categories will be displayed on the fro
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Sahroni]
+  first_name: [Anang]
 
   style: apa
   locale: en
