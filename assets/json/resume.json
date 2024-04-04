@@ -159,25 +159,61 @@
       "name": "Spect____ 3.0",
       "summary": "Software development for passive seismic processing, cloud-based and desktop application"   ,
       "startDate":"2023-01-01",
-      "endDate":"2023-12-31"
+      "endDate":"2023-12-31",
+      "highlights": [
+        "spectral finite element method",
+        "cloud-based",
+        "python",
+        "javascript"
+      ]   
     },
     {
       "name": "Spect____ 2.0",
       "summary": "Software development for passive seismic processing, cloud-based and desktop application",
       "startDate":"2022-01-01",
-      "endDate":"2022-12-31"   
+      "endDate":"2022-12-31",
+      "highlights": [
+        "low frequency passive seismic",
+        "cloud-based",
+        "python",
+        "javascript"
+      ]   
     },
     {
       "name": "Pert_____ 2.0",
       "summary": "Software development for potential fields mapping, cloud-based and desktop application",
       "startDate":"2022-01-01",
-      "endDate":"2022-12-31"   
+      "endDate":"2022-12-31",
+      "highlights": [
+        "aeromagnetic",
+        "cloud-based",
+        "python",
+        "javascript"
+      ]  
     },
     {
       "name": "Pert_____ 1.0",
       "summary": "Software development for ambient noise tomography, cloud-based and desktop application"   ,
       "startDate":"2020-01-01",
-      "endDate":"2020-12-31"
+      "endDate":"2020-12-31",
+      "highlights": [
+        "ambient noise tomography",
+        "cloud-based",
+        "python",
+        "javascript"
+      ]
+    },
+    {
+      "name": "GAMADU 1.0",
+      "summary": "Development of seismometer instrument in Geophysics, Universitas Gadjah Mada"   ,
+      "startDate":"2020-08-01",
+      "endDate":"2021-07-31",
+      "highlights": [
+        "seismometer",
+        "multiplatform client",
+        "seedlink",
+        "python"
+      ]
     }
   ]
 }
