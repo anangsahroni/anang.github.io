@@ -186,7 +186,7 @@
       "endDate":"2022-12-31",
       "highlights": [
         "aeromagnetic",
-        "cloud-based",
+        "spatial signal processing",
         "python",
         "javascript"
       ]  
@@ -198,7 +198,7 @@
       "endDate":"2020-12-31",
       "highlights": [
         "ambient noise tomography",
-        "cloud-based",
+        "markov chain monte carlo inversion",
         "python",
         "javascript"
       ]
@@ -210,7 +210,7 @@
       "endDate":"2021-07-31",
       "highlights": [
         "seismometer",
-        "multiplatform client",
+        "android",
         "seedlink",
         "python"
       ]
