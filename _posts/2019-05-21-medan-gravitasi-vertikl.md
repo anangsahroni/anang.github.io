@@ -5,11 +5,13 @@ date: 2019-05-21 16:00:00
 description: Pengaplikasian Python untuk plot Medan Gravitasi Titik Massa, digenerasi ulang dari Gravity and Magnetic Exploration -  Principles, Practices, and Applications (Hinze et al., 2013)
 tags: gravity, python
 categories: geophysics
-featured: true
+featured: false
+giscus_comments: true
 related_publications: hinze2013
+related_posts: true
 
 ---
-> The post is currently still in Bahasa Indonesia and will be translated to English soon
+
 
 > Konten ini juga sebagai bahan belajar saya, kalau ada kesalahan bisa dikoreksi, _thanks :)_
 

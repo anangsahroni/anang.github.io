@@ -6,9 +6,9 @@ description: Menggunakan metode probabilistik untuk menentukan episenter gempa b
 tags: seismology, python, geophysics
 categories: notebook
 giscus_comments: true
-related_posts: false
+related_posts: true
 ---
-> The post is currently still in Bahasa Indonesia and will be translated to English soon
+
 
 {::nomarkdown}
 {% assign jupyter_path = "assets/jupyter/2_Earthquake_Source_Simple_2_2.ipynb" | relative_url %}

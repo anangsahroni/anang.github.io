@@ -5,10 +5,11 @@ date: 2021-09-26 09:00:00+0700
 description: Menggunakan metode Geiger untuk menentukan episenter gempa bumi, dilakukan dengan Python
 tags: seismology, python, geophysics
 categories: notebook
-featured: true
-related_posts: false
+featured: false
+giscus_comments: true
+related_posts: true
 ---
-> The post is currently still in Bahasa Indonesia and will be translated to English soon
+
 
 {::nomarkdown}
 {% assign jupyter_path = "assets/jupyter/2_Earthquake_Source_Simple_2_1.ipynb" | relative_url %}
