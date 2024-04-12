@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Determining the earthquake epicenter using Geiger's method
+title: Menentukan hiposenter gempabumi dengan metode Geiger
 date: 2021-09-26 09:00:00+0700
 description: Menggunakan metode Geiger untuk menentukan episenter gempa bumi, dilakukan dengan Python
 tags: seismology, python, geophysics
