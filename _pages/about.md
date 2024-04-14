@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student @ <a href='https://www.geophysik.uni-muenchen.de/en'>Ludwig-Maximilians-Universität München</a>
+subtitle: PhD Student @ <a href='https://www.geo.lmu.de/deepdyn/en/projects/lhuillier-florian-geomagnetic-field-behaviour/'>Ludwig-Maximilians-Universität München</a>
 
 profile:
   align: right
